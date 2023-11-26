@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProjetoPIM</string>
+    <string name="name">Nome</string>
+    <string name="email">E-mail</string>
+    <string name="smart">Telefone</string>
+    <string name="cadastre">Cadastrar</string>
+    <string name="Consultation">Consultar</string>
+</resources>
